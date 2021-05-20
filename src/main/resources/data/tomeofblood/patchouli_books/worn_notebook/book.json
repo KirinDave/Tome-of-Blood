@@ -1,0 +1,7 @@
+{
+  "extend": "ars_nouveau:worn_notebook",
+  "macros": {
+    "$(item)": "$(1)",
+    "$(thing)": "$(4)"
+  }
+}

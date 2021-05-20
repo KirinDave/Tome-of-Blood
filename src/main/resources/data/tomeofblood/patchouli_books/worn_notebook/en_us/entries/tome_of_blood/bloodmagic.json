@@ -1,0 +1,11 @@
+{
+  "name": "BM Test Entry",
+  "category": "tomeofblood:tome_of_blood",
+  "icon": "tomeofblood:blood_tome_one",
+  "pages": [
+    {
+      "type": "text",
+      "text": "notebook.tomeofblood.bloodmagic.page1"
+    }
+  ]
+}
